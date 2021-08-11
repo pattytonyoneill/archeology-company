@@ -129,6 +129,7 @@ Frameworks, Libraries & Programs Used:
     Git: used to utilize the Gitpod terminal to commit to Git and Push to GitHub
     GitHub: used to store project code after being pushed from Git
     Balsamiq: Used to create the wire frame for the project during the planning phase
+    ColorSpce: Used to help client choose colors for website
 
 Testing:
 
@@ -200,3 +201,4 @@ Credits
     Acknowlegements
         My Mentor for his help and feedback.
         Tutor support at Code Institute
+        Clients for their help with input on colors, logo and images that they wanted used on the webpage.
