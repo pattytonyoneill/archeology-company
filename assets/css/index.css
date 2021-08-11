@@ -7,7 +7,7 @@
 body {
     font-family: Rock Salt, cursive;
     font-weight: 300;
-    color: #6b1c16;
+    color: #6d2e07;
 }
 
 /* headings & logo */
@@ -46,7 +46,7 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #166b1c;
+    border-bottom: 1px solid #004c32;
 }
 
 .active {
@@ -57,6 +57,14 @@ h1, h2 {
 
 #hero-image {
     height: 600px;
-    width: 100%;
+    width: 110%;
     background: url(../images/hero-image.jpg) no-repeat center center;
 }
+#hero-outer {
+    height: 600px;
+    width: 110%;
+    overflow:hidden;
+    
+
+}
+
