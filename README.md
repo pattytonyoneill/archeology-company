@@ -79,6 +79,8 @@ As a returning visitor, I would like to know how to contact the company regardin
 Further Testing
 
 Known Bugs
+Wireframe doesn't load in firefox.
+Hero Image has a gap on firefox while going all the way across on chrome.
 
 Deployment
 
