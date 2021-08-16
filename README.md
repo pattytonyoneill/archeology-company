@@ -90,7 +90,7 @@ The live link can be found here -
 ## Credits
 
 ### Code
-- _Readme used sample readme from code institute as a model. [Github](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md)
+- _Readme used sample readme from code institute as a model. [Github](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md)_
 - _The full screen hero image came from_
 
 ### Content
