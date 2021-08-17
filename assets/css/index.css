@@ -126,6 +126,67 @@ hr {
     font-size: 280%;
 }
 
+
+/* survey-digital */
+
+#survey-digital {
+    height: 600px;
+}
+
+#left-bottom-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-bottom-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-bottom-about {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1 px solid #4a1815;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-bottom-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-bottom-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-bottom-about-heading h2 {
+    text-align: right;
+}
+
+.right-bottom-about-heading p {
+    text-align: right;
+}
+
+#services {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+/* circle container information for trenching-evaluation survey-digital*/
 #circle-container {
     width: 300px;
     height: 300px;
@@ -140,4 +201,5 @@ hr {
 #circle-cover-bg {
     background:url('../images/test-trenching3.jpeg') no-repeat center center;
     height:100%;
+    border-radius: 50%;
 }
