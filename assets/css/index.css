@@ -126,6 +126,23 @@ hr {
     font-size: 280%;
 }
 
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #166b1c;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background:url('../images/test-trenching3.jpeg') no-repeat center center;
+    height:100%;
+    border-radius: 50%;
+}
+
 
 /* survey-digital */
 
@@ -186,8 +203,8 @@ hr {
     font-size: 280%;
 }
 
-/* circle container information for trenching-evaluation survey-digital*/
-#circle-container {
+
+#circle-bottom-container {
     width: 300px;
     height: 300px;
     padding: 30px;
@@ -198,8 +215,8 @@ hr {
     margin: 0 auto;
 }
 
-#circle-cover-bg {
-    background:url('../images/test-trenching3.jpeg') no-repeat center center;
+#circle-bottom-cover-bg {
+    background:url('../images/digital-image3.jpg') no-repeat center center;
     height:100%;
     border-radius: 50%;
 }
