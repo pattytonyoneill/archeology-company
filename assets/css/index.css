@@ -288,13 +288,13 @@ footer > p {
 
 /* laws */
 
+
 #laws {
     text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
 }
-#english {
+#law-links {
     text-align: center;
 }
 
-#global {
-    text-align: center;
-}
