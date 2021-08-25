@@ -37,7 +37,7 @@
     </header>
     <section class="form-section">
         <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
-            <h2>If you would like a quote for a planning related service include the county and the planning reference number so that we can check the project details before prepare a quote!</h2>
+            <h3>If you would like a quote for a planning related service include the county and the planning reference number so that we can check the project details before preparing a quote!</h3>
             
             <label for="fname">Contact Name</label>
             <input id="fname" name="first_name" type="text" required class="text-input">
@@ -50,6 +50,9 @@
             
             <label for="email">Email Address</label>
             <input type="email" id="email" name="email_address" required class="text-input">
+
+            <label for="info">Additional Information</label>
+            <input type="info" id="information" type="text" required class="text-input">
             
             <label for="morning">Morning 9am-1pm</label>
             <input type="radio" id="morning" name="contact_preference" value="morning" required>
@@ -58,8 +61,8 @@
             <input type="radio" id="afternoon" name="contact_preference" value="afternoon" required>
 
             <label for="both">Both</label>
-            <input type="radio" id="both" name="contact_preference" value="both" required>
-            
+            <input type="radio" id="both" name="contact_preference" value="both" required> 
+
             <input class="contact-button" type="submit" value="Contact Us!">
         </form>
     </section>
