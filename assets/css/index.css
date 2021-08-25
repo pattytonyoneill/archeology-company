@@ -288,13 +288,42 @@ footer > p {
 
 /* laws */
 
+#law-info {
+    height: 600px;
+}
 
 #laws {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
 }
-#law-links {
+
+
+
+#left-links {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+.law-links {
     text-align: center;
 }
 
+
+#right-picture {
+    width: 50%;
+    margin: 0 auto; 
+    
+}
+
+#picture {
+    width: 400px;
+    height: 300px;
+    padding: 60px;
+    margin: 0 auto;
+}
+
+#picture-cover {
+    background:url('../images/archaeology-3.jpg') no-repeat;
+    height:100%;
+}
