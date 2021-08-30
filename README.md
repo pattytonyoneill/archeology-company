@@ -42,10 +42,10 @@ ColorSpce: Used to help client choose colors for website
 - _Wireframes:_
 
   -You can find my home page wireframes at [this link](wireframes/home-page.pdf)
-  -You can find my Role of Archeologist Page Wireframe at [this link](wireframe/role-wireframe.pdf)
+  -You can find my Role of Archeologist Page Wireframe at [this link](wireframes/role.pdf)
   -You can find my Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
   -You can find my FAQ Wireframe at [this link](wireframes/faq.pdf)
--You can find my Contact Wireframe at [this link]
+-You can find my Contact Wireframe at [this link](wireframes/contact-us.pdf)
 ## Features:
 
 - _Responsive on all device sizes_
