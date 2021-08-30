@@ -42,7 +42,6 @@ ColorSpce: Used to help client choose colors for website
 - _Wireframes:_
 
   -You can find my home page wireframes at [this link](wireframes/home-page.pdf)
-  -You can find my Role of Archeologist Page Wireframe at [this link](wireframes/role.pdf)
   -You can find my Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
   -You can find my FAQ Wireframe at [this link](wireframes/faq.pdf)
 -You can find my Contact Wireframe at [this link](wireframes/contact-us.pdf)
@@ -50,6 +49,10 @@ ColorSpce: Used to help client choose colors for website
 
 - _Responsive on all device sizes_
 - _Interactive Elements_
+
+## Future Additions to page
+- _Role of Archeologist Section_
+- _Live google calander for booking service_
 
 ## Testing User Stories from User Experience Section
 - _First time Visitor Goals_
@@ -73,7 +76,7 @@ ColorSpce: Used to help client choose colors for website
 
 ## Known Bugs
 - _Wireframe doesn't load in firefox._
-- _Hero Image has a gap on firefox while going all the way across on chrome._
+- _Hero Image has a gap on firefox while going all the way across on chrome and other platforms._
 
 ## Deployment
 
