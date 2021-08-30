@@ -45,7 +45,7 @@ ColorSpce: Used to help client choose colors for website
   -You can find my Role of Archeologist Page Wireframe at [this link](wireframes/contact-us.pdf)
   -You can find my Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
   -You can find my FAQ Wireframe at [this link](wireframes/faq.pdf)
-  -You can find my Contact Wireframe at 
+-You can find my Contact Wireframe at [this link](wireframe/role-wireframe.pdf)
 ## Features:
 
 - _Responsive on all device sizes_
