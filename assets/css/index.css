@@ -5,15 +5,16 @@
     border: none;
 }
 body {
-    font-family: Rock Salt, cursive;
+    font-family: "Rock Salt", cursive;
     font-weight: 300;
     color: #6d2e07;
+    background-color: #b2bdc1;
 }
 
 /* headings & logo */
 
 h1, h2 {
-    font-family: Irish Grover, cursive;
+    font-family: "Irish Grover", cursive;
     color:#4a1815;
     letter-spacing: 4px;
 
@@ -43,7 +44,7 @@ h1, h2 {
 }
 #menu a {
     text-decoration: none;
-    color:#88b88b;
+    color:#004c32;
 }
 
 #menu a:hover {
@@ -269,7 +270,6 @@ footer > p {
 /* FAQ */
 
 #questions {
-    height: 300px;
     margin: 10px 15px;
     padding: 1%;
     text-align: center;
@@ -277,7 +277,6 @@ footer > p {
 }
 
 #faq {
-    
     margin: 20px 0;
     font-size: 280%;
 }
@@ -288,9 +287,6 @@ footer > p {
 
 /* laws */
 
-#law-info {
-    height: 450px;
-}
 
 #laws {
     text-align: center;
@@ -310,7 +306,7 @@ footer > p {
 #right-picture {
     width: 50%;
     margin: 0 auto; 
-    
+    float: right;
 }
 
 #picture {
@@ -321,7 +317,7 @@ footer > p {
 }
 
 #picture-cover {
-    background:url('../images/220_F_91200299_4iDOoaSkiDNaCKMu9acQraO7ZTJseNMZ2.jpg') no-repeat center center;
+    background:url('../images/planning-board.jpg') no-repeat center center;
     height:100%;
 }
 
@@ -405,4 +401,7 @@ footer > p {
         float: left;
         padding: 0;
     }
+    #survey-digital {
+
+}
 }

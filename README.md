@@ -32,6 +32,7 @@ ColorSpce: Used to help client choose colors for website
 - _Design:_
   - Color Scheme: 
   - Brown and Green are the colors used on the project.  These were chosen by the client. They wanted earth tones since they are a archeology company.
+  - (https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132)
 
 - _Typography:_
   - Irish Grover and Rock salt are the fonts used in this website with cursive as a backup in case one of the fonts does not import correctly. The client wanted an Gaelic looking font.
