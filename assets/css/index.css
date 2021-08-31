@@ -110,7 +110,7 @@ hr {
 }
 
 .left-about-heading li {
-    text-align: center;
+    text-align: left;
 }
 
 .right-about-heading {
@@ -126,7 +126,7 @@ hr {
 }
 
 .right-about-heading li {
-    text-align: center;
+    text-align: left;
 }
 
 #services {
@@ -205,7 +205,7 @@ hr {
     text-align: center;
 }
 .left-bottom-about-heading li {
-    text-align: center;
+    text-align: left;
 }
 
 .right-bottom-about-heading p {
@@ -213,7 +213,7 @@ hr {
 }
 
 .right-bottom-about-heading li {
-    text-align: center;
+    text-align: left;
 }
 
 #services {
