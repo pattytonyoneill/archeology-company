@@ -28,7 +28,9 @@ ColorSpace: Used to help client choose colors for website
 ImageColorPicker: Used to help client choose background colors for the website (https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132)
 
 - _Testing:_
-  -
+  -I have used the W3C Markup Validator and Jigsaw Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+  --W3C Markup Validator Results
+  --Jigsaw Validator Results
 
 - _Design:_
   - Color Scheme: 
@@ -39,14 +41,14 @@ ImageColorPicker: Used to help client choose background colors for the website (
   - Irish Grover and Rock salt are the fonts used in this website with cursive as a backup in case one of the fonts does not import correctly. The client wanted an Gaelic looking font.
 
 - _Imagery:_
-  -The main image for the website is important because it conveys the fact that it is an archeological company with a picture of an old structure that would be surveyed by the company. It is designed to get the users attention.  The additional imagery is to give an idea of what the company is doing when  Test Trenching,Site Evaluation, Geophysical Survey or doing Digital Archeology .
+  -The main image for the website is important because it conveys the fact that it is an archeological company with a picture of an old structure that would be surveyed by the company. It is designed to get the users attention.  The additional imagery is to give an idea of what the company is doing when  Test Trenching,Site Evaluation, Geophysical Survey or doing Digital Archeology . This imagery was provided by the company. Hero-image came from stockvault.net. Archeology piscture used on contact us page background was from freeimages.com. The rest of the images came from publicdomainpictures.net. 
 
 - _Wireframes:_
 
   -You can find my home page wireframes at [this link](wireframes/home-page.pdf)
   -You can find my Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
   -You can find my FAQ Wireframe at [this link](wireframes/faq.pdf)
--You can find my Contact Wireframe at [this link](wireframes/contact-us.pdf)
+  -You can find my Contact Wireframe at [this link](wireframes/contact-us.pdf)
 ## Features:
 
 - _Responsive on all device sizes_
@@ -54,7 +56,7 @@ ImageColorPicker: Used to help client choose background colors for the website (
 
 ## Future Additions to page
 - _Role of Archeologist Section_
-- _Live google calander for booking service_
+- _Live google calander for booking services_
 
 ## Testing User Stories from User Experience Section
 - _First time Visitor Goals_
@@ -75,6 +77,10 @@ ImageColorPicker: Used to help client choose background colors for the website (
   - As a returning visitor, I would like to know how to contact the company regarding pricing.
 
 ## Further Testing
+  -The Website was tested on Google Chrome, Firefox, and Brave browsers.
+  -The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+  -A large amount of testing was done to ensure that all pages were linking correctly.
+  -Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Known Bugs
 - _Wireframe doesn't load in firefox._
