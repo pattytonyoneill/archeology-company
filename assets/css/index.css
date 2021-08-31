@@ -436,4 +436,38 @@ footer > p {
 
     }
     
-   
+    #trenching-evaluation {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+    .left-about-heading h2, .left-about-heading h2 {
+        width:100%;
+        text-align: center;
+    }
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px
+    }
+    #survey-digital {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-bottom-about-heading, .right-bottom-about-heading {
+        width: inherit;
+    }
+    .left-bottom-about-heading h2, .left-bottom-about-heading h2 {
+        width:100%;
+        text-align: center;
+    }
+    .left-bottom-about-heading p, .right-bottom-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+    
+}
