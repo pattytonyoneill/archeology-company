@@ -318,7 +318,7 @@ footer > p {
 
 #picture-cover {
     background:url('../images/planning-board.jpg') no-repeat center center;
-    height:100%;
+    height: 100%;
 }
 
 /* Contact*/
@@ -402,6 +402,38 @@ footer > p {
         padding: 0;
     }
     #survey-digital {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #left-bottom-about, #right-bottom-about {
+        width:100%;
+        float: left;
+        padding: 0;
+    }
+    #center-bottom-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    hr {
+        display: none;
+    }
+}
 
-}
-}
+/* For medium screens size from 950px wide and down */
+
+@media screen and max-width: 950px) {
+
+    
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+
+    }
+    
+   

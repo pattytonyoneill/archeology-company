@@ -24,7 +24,8 @@ Font Awesome: used on all the pages of the website to add icons to make the page
 Git: used to utilize the Gitpod terminal to commit to Git and Push to GitHub
 GitHub: used to store project code after being pushed from Git
 Balsamiq: Used to create the wire frame for the project during the planning phase
-ColorSpce: Used to help client choose colors for website
+ColorSpace: Used to help client choose colors for website
+ImageColorPicker: Used to help client choose background colors for the website (https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132)
 
 - _Testing:_
   -
@@ -32,7 +33,7 @@ ColorSpce: Used to help client choose colors for website
 - _Design:_
   - Color Scheme: 
   - Brown and Green are the colors used on the project.  These were chosen by the client. They wanted earth tones since they are a archeology company.
-  - (https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132)
+  - 
 
 - _Typography:_
   - Irish Grover and Rock salt are the fonts used in this website with cursive as a backup in case one of the fonts does not import correctly. The client wanted an Gaelic looking font.
