@@ -287,7 +287,6 @@ footer > p {
 
 /* laws */
 
-
 #laws {
     text-align: center;
     margin: 20px 0;
@@ -306,7 +305,7 @@ footer > p {
 #right-picture {
     width: 50%;
     margin: 0 auto; 
-    float: right;
+    float: left;
 }
 
 #picture {
@@ -381,6 +380,7 @@ footer > p {
 
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+
     #trenching-evaluation {
         width: 65%;
         height: 1200px;
@@ -419,6 +419,16 @@ footer > p {
     }
     hr {
         display: none;
+    }
+    #left-links {
+        width:100%;
+        float: left;
+        padding: 0;
+    }
+    #right-picture {
+        width:100%;
+        float: left;
+        padding: 0;
     }
 }
 
