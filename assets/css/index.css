@@ -30,7 +30,8 @@ h1, h2 {
 
 #menu {
     font-size: 110%;
-    letter-spacing: 4px;
+    letter-spacing: 4px;\
+
 }
 
 #menu, #logo {
@@ -208,11 +209,14 @@ hr {
     text-align: left;
 }
 
-.right-bottom-about-heading p {
+.right-bottom-about-heading li {
     text-align: left;
 }
 
-.right-bottom-about-heading li {
+.right-bottom-about-heading p {
+    text-align: left;
+}
+.left-bottom-about-heading p {
     text-align: left;
 }
 
@@ -244,6 +248,7 @@ hr {
 
 footer {
     height: 150px;
+    
 }
 
 .social-networks {
@@ -381,6 +386,13 @@ footer > p {
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 50px;
+    }
     #trenching-evaluation {
         width: 65%;
         height: 1200px;
@@ -479,5 +491,9 @@ footer > p {
         text-align: center;
         padding: 0 20px;
     }
-    
+
+    .form-section {
+        height: 400px;
+    }
+
 }
