@@ -30,6 +30,10 @@ ImageColorPicker: Used to help client choose background colors for the website (
 - _Testing:_
   -I have used the W3C Markup Validator and Jigsaw Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
   --W3C Markup Validator Results
+  ---Home Page [this link](testing/home-testing.txt)
+  ---Laws Page [this link](testing/laws-testing.txt)
+  ---FAQ Page [this link](testing/faq-testing.txt)
+  ---Contact Page [this link](testing/contact-testing.txt)
   --Jigsaw Validator Results
 
 - _Design:_
@@ -78,9 +82,9 @@ ImageColorPicker: Used to help client choose background colors for the website (
 
 ## Further Testing
   -The Website was tested on Google Chrome, Firefox, and Brave browsers.
-  -The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-  -A large amount of testing was done to ensure that all pages were linking correctly.
-  -Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+  -The website was viewed on a variety of devices such as Desktop, Laptop, and Samsung Galaxy 7.
+  -A large amount of testing was done to ensure that all pages were linking correctly. 
+  -Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. I aso had my client test the website to see if it was what they wanted.
 
 ## Known Bugs
 - _Wireframe doesn't load in firefox._
@@ -107,7 +111,7 @@ The live link can be found here -
 - _All content written by the developer._
 
 ### Media
-- _Images came from_
+- _Images came from - Hero-image came from stockvault.net. Archeology picture used on contact us page background was from freeimages.com. The rest of the images came from publicdomainpictures.net. _
 
 ### Acknowlegements
 - _My Mentor for his help and feedback._
