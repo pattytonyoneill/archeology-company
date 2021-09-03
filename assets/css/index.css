@@ -156,10 +156,6 @@ hr {
 
 /* survey-digital */
 
-#survey-digital {
-    height: 600px;
-}
-
 #left-bottom-about {
     padding-top: 30px;
     width: 33%;
@@ -393,6 +389,7 @@ footer > p {
         margin-bottom: 20px;
         line-height: 50px;
     }
+    
     #trenching-evaluation {
         width: 65%;
         height: 1200px;
@@ -415,7 +412,7 @@ footer > p {
     }
     #survey-digital {
         width: 65%;
-        height: 1200px;
+        height: 2000px;
         margin: 0 auto;
     }
     #left-bottom-about, #right-bottom-about {
@@ -483,7 +480,7 @@ footer > p {
     .left-bottom-about-heading, .right-bottom-about-heading {
         width: inherit;
     }
-    .left-bottom-about-heading h2, .left-bottom-about-heading h2 {
+    .left-bottom-about-heading h2, .right-bottom-about-heading h2 {
         width:100%;
         text-align: center;
     }
