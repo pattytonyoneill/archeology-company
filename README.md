@@ -34,7 +34,7 @@ ImageColorPicker: Used to help client choose background colors for the website (
   ---Laws Page [this link](testing/laws-testing.txt)
   ---FAQ Page [this link](testing/faq-testing.txt)
   ---Contact Page [this link](testing/contact-testing.txt)
-  --Jigsaw Validator Results
+  --Jigsaw Validator Results [this link](testing/css-testing.txt)
 
 - _Design:_
   - Color Scheme: 
@@ -64,21 +64,21 @@ ImageColorPicker: Used to help client choose background colors for the website (
 
 ## Testing User Stories from User Experience Section
 - _First time Visitor Goals_
-  - As a first time user of this site, I would like to be able to easily decifer the main purpose of the website and learn more about the company.
+  - _As a first time user of this site, I would like to be able to easily decifer the main purpose of the website and learn more about the company._
 
-  - As a first time user, I would like to be able to easily navigate through the site to find content that I need and want to see.
+  - _As a first time user, I would like to be able to easily navigate through the site to find content that I need and want to see._
 
-  - As a first time user, I would like to be able to find information on the services of the company. 
+  - _As a first time user, I would like to be able to find information on the services of the company._ 
 
-  - As a first time user, I would like to be able to locate the social media links for the company to determine how trusted and known they are.
+  - _As a first time user, I would like to be able to locate the social media links for the company to determine how trusted and known they are._
 
 
 - _Returning Visitor Goals:_ 
-  - As a returning visitor, I would like to know the laws regarding archeology in ireland.
+  - _As a returning visitor, I would like to know the laws regarding archeology in ireland._
 
-  - As a returning visitor, I would like to know the role of the archeologist in the company and why it is important.
+  - _As a returning visitor, I would like to know the role of the archeologist in the company and why it is important._
 
-  - As a returning visitor, I would like to know how to contact the company regarding pricing.
+  - _As a returning visitor, I would like to know how to contact the company regarding pricing._
 
 ## Further Testing
   -The Website was tested on Google Chrome, Firefox, and Brave browsers.
@@ -117,3 +117,4 @@ The live link can be found here -
 - _My Mentor for his help and feedback._
 - _Tutor support at Code Institute_
 - _Clients for their help with input on colors, logo and images that they wanted used on the webpage._
+- _Family for help with help and feedback on website as a user._

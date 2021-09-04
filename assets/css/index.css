@@ -69,7 +69,7 @@ h1, h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color: #004c32;
+    color: #4a1815;
 }
 
 /* trenching-evaluation */
@@ -156,8 +156,10 @@ hr {
     border-radius: 50%;
 }
 
-
 /* survey-digital */
+#survey-digital {
+    height: 600px;
+}
 
 #left-bottom-about {
     padding-top: 30px;
@@ -190,6 +192,14 @@ hr {
     margin-bottom: 50px;
 }
 
+.left-bottom-about-heading h2 {
+    text-align: center;
+}
+
+.left-bottom-about-heading li {
+    text-align: left;
+}
+
 .right-bottom-about-heading {
     width: 60%;
     float: left;
@@ -201,30 +211,10 @@ hr {
 .right-bottom-about-heading h2 {
     text-align: center;
 }
-.left-bottom-about-heading h2 {
-    text-align: center;
-}
-.left-bottom-about-heading li {
-    text-align: left;
-}
 
 .right-bottom-about-heading li {
     text-align: left;
 }
-
-.right-bottom-about-heading p {
-    text-align: left;
-}
-.left-bottom-about-heading p {
-    text-align: left;
-}
-
-#services {
-    text-align: center;
-    margin: 20px 0;
-    font-size: 280%;
-}
-
 
 #circle-bottom-container {
     width: 300px;
@@ -247,7 +237,6 @@ hr {
 
 footer {
     height: 150px;
-    
 }
 
 .social-networks {
@@ -371,7 +360,6 @@ footer > p {
     font-size: 100%;
     background-color: #f16c6b;
     color: #fafafa;
-    position: bottom;
     display: block;
 }
 
@@ -395,7 +383,7 @@ footer > p {
     
     #trenching-evaluation {
         width: 65%;
-        height: 1200px;
+        height: 1600px;
         margin: 0 auto;
     }
     #services {
@@ -414,8 +402,9 @@ footer > p {
         padding: 0;
     }
     #survey-digital {
+        
         width: 65%;
-        height: 2000px;
+        height: 1600px;
         margin: 0 auto;
     }
     #left-bottom-about, #right-bottom-about {
@@ -444,56 +433,3 @@ footer > p {
     }
 }
 
-/* For medium screens size from 950px wide and down */
-
-@media screen and max-width: 950px) {
-
-    
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-
-    }
-    
-    #trenching-evaluation {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-    .left-about-heading, .right-about-heading {
-        width: inherit;
-    }
-    .left-about-heading h2, .left-about-heading h2 {
-        width:100%;
-        text-align: center;
-    }
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 0 20px 0 20px
-    }
-    #survey-digital {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    .left-bottom-about-heading, .right-bottom-about-heading {
-        width: inherit;
-    }
-    .left-bottom-about-heading h2, .right-bottom-about-heading h2 {
-        width:100%;
-        text-align: center;
-    }
-    .left-bottom-about-heading p, .right-bottom-about-heading p {
-        text-align: center;
-        padding: 0 20px;
-    }
-
-    .form-section {
-        height: 400px;
-    }
-
-}
