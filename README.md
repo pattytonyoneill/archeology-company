@@ -34,7 +34,7 @@ ImageColorPicker: Used to help client choose background colors for the website (
   ---Laws Page [this link](testing/laws-testing.txt)
   ---FAQ Page [this link](testing/faq-testing.txt)
   ---Contact Page [this link](testing/contact-testing.txt)
-  --Jigsaw Validator Results [this link](testing/css-testing.txt)
+  ---CSS Style Code Results [this link](testing/css-testing.txt)
 
 - _Design:_
   - Color Scheme: 
@@ -47,12 +47,12 @@ ImageColorPicker: Used to help client choose background colors for the website (
 - _Imagery:_
   -The main image for the website is important because it conveys the fact that it is an archeological company with a picture of an old structure that would be surveyed by the company. It is designed to get the users attention.  The additional imagery is to give an idea of what the company is doing when  Test Trenching,Site Evaluation, Geophysical Survey or doing Digital Archeology . This imagery was provided by the company. Hero-image came from stockvault.net. Archeology piscture used on contact us page background was from freeimages.com. The rest of the images came from publicdomainpictures.net. 
 
-- _Wireframes:_
+- _Balsamiq Wireframes:_
 
-  -You can find my home page wireframes at [this link](wireframes/home-page.pdf)
-  -You can find my Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
-  -You can find my FAQ Wireframe at [this link](wireframes/faq.pdf)
-  -You can find my Contact Wireframe at [this link](wireframes/contact-us.pdf)
+  -Home page wireframes at [this link](wireframes/home-page.pdf)
+  -Laws Regarding Archeology Wirefram at [this link](wireframes/laws.pdf)
+  -FAQ Wireframe at [this link](wireframes/faq.pdf)
+  -Contact Wireframe at [this link](wireframes/contact-us.pdf)
 ## Features:
 
 - _Responsive on all device sizes_
@@ -61,29 +61,34 @@ ImageColorPicker: Used to help client choose background colors for the website (
 ## Future Additions to page
 - _Role of Archeologist Section_
 - _Live google calander for booking services_
+- _Ability to get map of archeology in a certain area._
 
 ## Testing User Stories from User Experience Section
 - _First time Visitor Goals_
   - _As a first time user of this site, I would like to be able to easily decifer the main purpose of the website and learn more about the company._
+  -- Upon entering of the site, users are able to easily see the company name and navigation bar. This way they can easily go to the page of their choice. Underneath is Our Hero Image of ? which gives them an idea of the archeology that could be surveyed by the company. Below that is more information about the services offered by this company. 
 
   - _As a first time user, I would like to be able to easily navigate through the site to find content that I need and want to see._
+  -- At the top of every page there is a navigation bar that is easily seen and accessible to the user. These links describe what they are about so the user can get more information about the company and why they may need to hire the company. There is also a contact us page that the user can use to contact the company to get someone to call back whether it is for more information or to start the process of hiring the company.
 
   - _As a first time user, I would like to be able to find information on the services of the company._ 
+  -- The Home page has a listing of the services available and a description of what they are. Also listed are the different ways that you can be charged.  Those are hourly, daily and that discounts can be offered if more than one site is involved. The user can also go to bottom of Home page for the address and phone number of the company.
 
   - _As a first time user, I would like to be able to locate the social media links for the company to determine how trusted and known they are._
+  -- The user can easily go to the bottom of the page and click onto one of the social media sites and open a new tab so that they stay on the website.
 
 
 - _Returning Visitor Goals:_ 
   - _As a returning visitor, I would like to know the laws regarding archeology in ireland._
+  -- These are on the Laws Page of the website.  They are grouped according to region so the user can easily look at their region and view the law.  These links are able to be accessed while keeping the visitor on the website.
 
-  - _As a returning visitor, I would like to know the role of the archeologist in the company and why it is important._
-
-  - _As a returning visitor, I would like to know how to contact the company regarding pricing._
+  - _As a returning visitor, I would like to know how to contact the company regarding pricing._ 
+  -- This is on the Contact Us page.  The user is able to send their contact information for someone to call them back and give them more information and pricing.  This is also possible throught the social media sites. Also, the phone number and the address is listed on all the pages as well. This gives the user multiple points of contact for the company.
 
 ## Further Testing
   -The Website was tested on Google Chrome, Firefox, and Brave browsers.
-  -The website was viewed on a variety of devices such as Desktop, Laptop, and Samsung Galaxy 7.
-  -A large amount of testing was done to ensure that all pages were linking correctly. 
+  -The website was viewed on a variety of devices such as Desktop, Laptop, and Samsung Galaxy 7, Samsung Galaxy 8, Samsung A12.
+  -A large amount of testing was done to ensure that all of the pages were linking correctly. 
   -Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. I aso had my client test the website to see if it was what they wanted.
 
 ## Known Bugs
@@ -117,4 +122,4 @@ The live link can be found here -
 - _My Mentor for his help and feedback._
 - _Tutor support at Code Institute_
 - _Clients for their help with input on colors, logo and images that they wanted used on the webpage._
-- _Family for help with help and feedback on website as a user._
+- _Family for help with help and feedback on website as a use
