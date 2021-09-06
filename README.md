@@ -23,10 +23,10 @@
 - [Font Awesome](https://fontawesome.com/): used on all the pages of the website to add icons to make the page look astheticly pleasing
 - [Git](https://git-scm.com): used to utilize the Gitpod terminal to commit to Git and Push to GitHub
 - [GitHub](https://github.com/): used to store project code after being pushed from Git
-- [Balsamiq]: Used to create the wire frame for the project during the planning phase
-- [ColorSpace]:(https://mycolor.space) Used to help client choose colors that they preferred for website 
-- [ImageColorPicker]:(https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132): Used to help client choose background colors for the website 
-- [Am I Responsive?]:(http://ami.responsivedesign.is/)
+- [Balsamiq](https://balsamiq.com/) Used to create the wire frame for the project during the planning phase
+- [ColorSpace](https://mycolor.space) Used to help client choose colors that they preferred for website 
+- [ImageColorPicker](https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132): Used to help client choose background colors for the website 
+- [Am I Responsive?](http://ami.responsivedesign.is/)
 
 - _W3C Markup Validator Results (No errors were returned when using Jigsaw validator)_- 
   - Home Page [this link](testing/home-testing.txt)
