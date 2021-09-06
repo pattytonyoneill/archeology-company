@@ -19,13 +19,13 @@
 
 ## Frameworks, Libraries & Programs Used:
 
-- _Google Fonts:_ used to import Irish Grover and Rock Salt into the style.css file which is used on all the pages of the project
-Font Awesome: used on all the pages of the website to add icons to make the page look astheticly pleasing
-Git: used to utilize the Gitpod terminal to commit to Git and Push to GitHub
-GitHub: used to store project code after being pushed from Git
-Balsamiq: Used to create the wire frame for the project during the planning phase
-ColorSpace: Used to help client choose colors that they preferred for website
-ImageColorPicker: Used to help client choose background colors for the website (https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132)
+- [Google Fonts](https://fonts.google.com/):_ used to import Irish Grover and Rock Salt into the style.css file which is used on all the pages of the project
+- [Font Awesome](https://fontawesome.com/): used on all the pages of the website to add icons to make the page look astheticly pleasing
+- [Git](https://git-scm.com): used to utilize the Gitpod terminal to commit to Git and Push to GitHub
+- [GitHub](https://github.com/): used to store project code after being pushed from Git
+- [Balsamiq]: Used to create the wire frame for the project during the planning phase
+- [ColorSpace]:(https://mycolor.space) Used to help client choose colors that they preferred for website 
+- [ImageColorPicker](https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132): Used to help client choose background colors for the website 
 
 - _W3C Markup Validator Results (No errors were returned when using Jigsaw validator)_- 
   - Home Page [this link](testing/home-testing.txt)
@@ -108,8 +108,7 @@ ImageColorPicker: Used to help client choose background colors for the website (
   - Use the source section drop-down menu and select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://github.com/pattytonyoneill/archeology-company
-
+The live link can be found here - https://pattytonyoneill.github.io/archeology-company/
 
 
 ## Credits
@@ -128,4 +127,4 @@ The live link can be found here - https://github.com/pattytonyoneill/archeology-
 - _My Mentor for his help and feedback._
 - _Tutor support at Code Institute_
 - _Clients for their help with input on colors, logo and images that they wanted used on the webpage._
-- _Family for help with help and feedback on website as a use
+- _Family for help with help and feedback on website as a use_

@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Rock+Salt&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -74,9 +75,6 @@ h1, h2 {
 
 /* trenching-evaluation */
 
-#trenching-evaluation {
-    height: 600px;
-}
 
 #left-about {
     padding-top: 30px;
@@ -102,7 +100,7 @@ hr {
 }
 
 .left-about-heading {
-    width: 60%;
+    width: 75%;
     float: right;
     line-height: 20px;
     clear: both;
@@ -118,7 +116,7 @@ hr {
 }
 
 .right-about-heading {
-    width: 60%;
+    width: 75%;
     float: left;
     line-height: 20px;
     clear: both;
@@ -158,7 +156,8 @@ hr {
 
 /* survey-digital */
 #survey-digital {
-    height: 600px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 #left-bottom-about {
@@ -185,7 +184,7 @@ hr {
 }
 
 .left-bottom-about-heading {
-    width: 60%;
+    width: 75%;
     float: right;
     line-height: 20px;
     clear: both;
@@ -201,7 +200,7 @@ hr {
 }
 
 .right-bottom-about-heading {
-    width: 60%;
+    width: 75%;
     float: left;
     line-height: 20px;
     clear: both;
@@ -326,7 +325,7 @@ footer > p {
 .contact-form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.8);
     max-width: 400px;
     position: absolute;
     left: 5%;
@@ -383,7 +382,6 @@ footer > p {
     
     #trenching-evaluation {
         width: 65%;
-        height: 1600px;
         margin: 0 auto;
     }
     #services {
@@ -404,7 +402,6 @@ footer > p {
     #survey-digital {
         
         width: 65%;
-        height: 1600px;
         margin: 0 auto;
     }
     #left-bottom-about, #right-bottom-about {
