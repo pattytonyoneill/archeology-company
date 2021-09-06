@@ -163,6 +163,7 @@ hr {
     padding-top: 30px;
     width: 33%;
     float: left;
+    clear: both;
 }
 
 #right-bottom-about {
@@ -186,7 +187,7 @@ hr {
     width: 75%;
     float: right;
     line-height: 20px;
-    clear: both;
+    
     margin-bottom: 50px;
 }
 
