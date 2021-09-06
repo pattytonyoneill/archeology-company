@@ -25,7 +25,8 @@
 - [GitHub](https://github.com/): used to store project code after being pushed from Git
 - [Balsamiq]: Used to create the wire frame for the project during the planning phase
 - [ColorSpace]:(https://mycolor.space) Used to help client choose colors that they preferred for website 
-- [ImageColorPicker](https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132): Used to help client choose background colors for the website 
+- [ImageColorPicker]:(https://imagecolorpicker.com/en/user/shared-palette?id=308363078299288132): Used to help client choose background colors for the website 
+- [Am I Responsive?]:(http://ami.responsivedesign.is/)
 
 - _W3C Markup Validator Results (No errors were returned when using Jigsaw validator)_- 
   - Home Page [this link](testing/home-testing.txt)
