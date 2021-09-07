@@ -57,7 +57,41 @@
 ## Features:
 
 - _Responsive on all device sizes_
+
+  - _Desktop_
+
+    - ![image](testing/top-of-home-page.png)
+
+  - _Tablet_
+
+    - ![image](testing/tablet_chrome.jpg)
+
+  - _Cell Phone_
+
+    - ![image](testing/samsung7_chrome.jpg)
+
 - _Interactive Elements_
+
+  - Home page has links to other pages for more information.
+
+    - ![image](testing/top-of-home-page.png)
+
+  - Laws Page with links that keep the user on webpage and open new tab to link.
+
+    - ![image](testing/laws.png)
+
+  - Contact Page that allows the user to get a call back with more information on pricing etc.
+
+    - ![image](testing/contact.png)
+
+  - FAQ Page with links that keep the user on webpage and open new tab to link.
+
+    - ![image](testing/faq.png)
+
+  - Footer with contact information for social media, physical address and phone of company.
+
+    - ![image](testing/footer.png)
+
 
 ## Future Additions to page
 
@@ -70,19 +104,29 @@
 - _First time Visitor Goals_
 
   - _As a first time user of this site, I would like to be able to easily decifer the main purpose of the website and learn more about the company._
-  -- Upon entering of the site, users are able to easily see the company name and navigation bar. This way they can easily go to the page of their choice. Underneath is Our Hero Image of ? which gives them an idea of the archeology that could be surveyed by the company. Below that is more information about the services offered by this company. 
+  -- Upon entering of the site, users are able to easily see the company name and navigation bar. This way they can easily go to the page of their choice. Underneath is Our Hero Image of ? which gives them an idea of the archeology that could be surveyed by the company. Below that is more information about the services offered by this company.
+
+    - ![image](testing/first-time-user-1.png)
 
   - _As a first time user, I would like to be able to easily navigate through the site to find content that I need and want to see._
   -- At the top of every page there is a navigation bar that is easily seen and accessible to the user. These links describe what they are about so the user can get more information about the company and why they may need to hire the company. There is also a contact us page that the user can use to contact the company to get someone to call back whether it is for more information or to start the process of hiring the company.
 
+    - ![image](testing/navbar.png)
+
   - _As a first time user, I would like to be able to find information on the services of the company._ 
   -- The Home page has a listing of the services available and a description of what they are. Also listed are the different ways that you can be charged.  Those are hourly, daily and that discounts can be offered if more than one site is involved. The user can also go to bottom of Home page for the address and phone number of the company.
+
+    - ![image](testing/services.png)
 
   - _As a first time user, I would like to be able to locate the social media links for the company to determine how trusted and known they are._
   -- The user can easily go to the bottom of the page and click onto one of the social media sites and open a new tab so that they stay on the website.
 
+    - ![image](testing/footer.png)
+
   - _As a first time user, I would like to be able to look at Frequently Asked Questions and get some answers._
   -- This is easily accesible on the FAQ page.  There are some basic questions and the answers that a lay person may have.  There is also a link to the Irish Statute Book as well as Europol that can be accessed while the user remains on the web page. These questions could be for a possible client, someone that found a piece of archeology or  someone who knows the whereabouts of stolen archeology.
+
+    - ![image](testing/faq.png)
 
 
 - _Returning Visitor Goals:_ 
@@ -90,12 +134,16 @@
   - _As a returning visitor, I would like to know the laws regarding archeology in ireland._
   - - These are on the Laws Page of the website.  They are grouped according to region so the user can easily look at their region and view the law.  These links are able to be accessed while keeping the visitor on the website.
 
+     - ![image](testing/laws.png)
+
   - _As a returning visitor, I would like to know how to contact the company regarding pricing._ 
   - - This is on the Contact Us page.  The user is able to send their contact information for someone to call them back and give them more information and pricing.  This is also possible throught the social media sites. Also, the phone number and the address is listed on all the pages as well. This gives the user multiple points of contact for the company.
 
+    - ![image](testing/contact.png)
+
 ## Further Testing
   - The Website was tested on Google Chrome, Firefox, and Brave browsers.
-  - The website was viewed on a variety of devices such as Desktop, Laptop, and Samsung Galaxy 7, Samsung Galaxy 8, Samsung A12.
+  - The website was viewed on a variety of devices such as Desktop, Laptop, Samsung Galaxy Tablet and Samsung Galaxy 7, Samsung Galaxy 8, Samsung A12.
   - A large amount of testing was done to ensure that all of the pages were linking correctly. 
   - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. I aso had my client test the website to see if it was what they wanted.
 
