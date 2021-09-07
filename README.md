@@ -172,6 +172,12 @@
 
 The live link can be found here - https://pattytonyoneill.github.io/archeology-company/
 
+## Local Deployment
+
+In order to make a local copy of this repository, you can clone it by typing the following into your IDE Terminal:
+- `git clone https://github.com/pattytonyoneill/archeology-company.git`
+
+Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/pattytonyoneill/archeology-company)
 
 ## Credits
 
@@ -183,7 +189,12 @@ The live link can be found here - https://pattytonyoneill.github.io/archeology-c
 - _All content written by the developer._
 
 ### Media
-- _Images came from_- Hero-image came from [stockvault.net](https://www.stockvault.net/photo/135432/poulnabrone-dolmen-hdr). Archeology picture used on contact us page background was from [freeimages.com](https://www.freeimages.com/photo/archaeology-1-1456973). The planning board came for adobe stock photos[planning-board](https://stock.adobe.com/search?k=archeology&asset_id=300414652).The rest of the images came from publicdomainpictures. [Test Trenching](https://www.publicdomainpictures.net/en/view-image.php?image=251822&picture=archeology), [digital-image](https://images.app.goo.gl/XMBQvqt6d8EwaWFj6). 
+_Images came from_
+- [hero-image](https://www.stockvault.net/photo/135432/poulnabrone-dolmen-hdr)
+- [archeology](https://www.freeimages.com/photo/archaeology-1-1456973)
+- [planning-board](https://stock.adobe.com/search?k=archeology&asset_id=300414652)
+- [Test Trenching](https://www.publicdomainpictures.net/en/view-image.php?image=251822&picture=archeology)
+- [digital-image](https://images.app.goo.gl/XMBQvqt6d8EwaWFj6) 
 
 ### Acknowlegements
 - _My Mentor for his help and feedback._
