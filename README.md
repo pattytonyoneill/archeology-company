@@ -1,3 +1,4 @@
+![image](testing/mobile_devices.png)
 # Archeology Company Website
 
 ## User Stories:
@@ -29,13 +30,13 @@
 - [Am I Responsive?](http://ami.responsivedesign.is/)
 
 - _W3C Markup Validator Results (No errors were returned when using Jigsaw validator)_- 
-  - Home Page [this link](testing/home-testing.txt)
-  - Laws Page [this link](testing/laws-testing.txt)
-  - FAQ Page [this link](testing/faq-testing.txt)
-  - Contact Page [this link](testing/contact-testing.txt)
+  - Home Page ![image](testing/home-testing.png)
+  - Laws Page ![image](testing/laws-testing.png)
+  - FAQ Page ![image](testing/faq-testing.png)
+  - Contact Page ![image](testing/contact-testing.png)
 
 - _Jigsaw Validator Results(No errors were returned when using W3C validator)_
-  - CSS Style Code Results [this link](testing/css-testing.txt)
+  - CSS Style Code Results ![image](testing/css-testing.png)
 
 - _Design:_
   - _Color Scheme:_ Brown and Green are the colors used on the project.  These were chosen by the client. They wanted earth tones since they are a archeology company.
