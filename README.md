@@ -60,7 +60,7 @@
 
   - _Desktop_
 
-    - ![image](desktop_chrome.png)
+    - ![image](testing/desktop_chrome.png)
 
   - _Tablet_
 
