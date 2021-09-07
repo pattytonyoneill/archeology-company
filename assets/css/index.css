@@ -5,6 +5,7 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family: "Rock Salt", cursive;
     font-weight: 300;
@@ -14,9 +15,10 @@ body {
 
 /* headings & logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: "Irish Grover", cursive;
-    color:#4a1815;
+    color: #4a1815;
     letter-spacing: 4px;
 
 }
@@ -34,7 +36,8 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -43,9 +46,10 @@ h1, h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
 #menu a {
     text-decoration: none;
-    color:#004c32;
+    color: #004c32;
 }
 
 #menu a:hover {
@@ -53,7 +57,7 @@ h1, h2 {
 }
 
 .active {
-    border-bottom: 1px solid  #166b1c;
+    border-bottom: 1px solid #166b1c;
 }
 
 /* hero-image */
@@ -63,20 +67,34 @@ h1, h2 {
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
 }
+
 #hero-outer {
     height: 500px;
     width: 100%;
     overflow: hidden;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text,
+#cover-text h2 {
     color: #4a1815;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: "Irish Grover";
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
 }
 
 /* trenching-evaluation */
 
 #left-about {
     padding-top: 30px;
+    padding-left: 30px;
     width: 33%;
     float: left;
 }
@@ -100,7 +118,6 @@ hr {
 
 .left-about-heading {
     width: 75%;
-    float: right;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
@@ -148,19 +165,20 @@ hr {
 }
 
 #circle-cover-bg {
-    background:url('../images/test-trenching3.jpeg') no-repeat center center;
-    height:100%;
+    background: url('../images/test-trenching3.jpeg') no-repeat center center;
+    height: 100%;
     border-radius: 50%;
 }
 
 /* survey-digital */
 #survey-digital {
     margin-top: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 250px;
 }
 
 #left-bottom-about {
     padding-top: 30px;
+    padding-left: 30px;
     width: 33%;
     float: left;
     clear: both;
@@ -185,9 +203,7 @@ hr {
 
 .left-bottom-about-heading {
     width: 75%;
-    float: right;
     line-height: 20px;
-    
     margin-bottom: 50px;
 }
 
@@ -227,8 +243,8 @@ hr {
 }
 
 #circle-bottom-cover-bg {
-    background:url('../images/digital-image3.jpg') no-repeat center center;
-    height:100%;
+    background: url('../images/digital-image3.jpg') no-repeat center center;
+    height: 100%;
     border-radius: 50%;
 }
 
@@ -242,7 +258,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -254,7 +270,7 @@ footer {
     padding: 5%;
 }
 
-footer > p {
+footer>p {
     font-size: 100%;
     text-align: center;
 }
@@ -265,7 +281,7 @@ footer > p {
     margin: 10px 15px;
     padding: 1%;
     text-align: center;
-    
+
 }
 
 #faq {
@@ -290,6 +306,7 @@ footer > p {
     width: 50%;
     float: left;
 }
+
 .law-links {
     text-align: center;
 }
@@ -298,7 +315,7 @@ footer > p {
     padding-top: 30px;
     padding-bottom: 200px;
     width: 50%;
-    margin: 0 auto; 
+    margin: 0 auto;
     float: left;
 }
 
@@ -310,7 +327,7 @@ footer > p {
 }
 
 #picture-cover {
-    background:url('../images/planning-board.jpg') no-repeat center center;
+    background: url('../images/planning-board.jpg') no-repeat center center;
     height: 100%;
 }
 
@@ -350,7 +367,7 @@ footer > p {
 }
 
 .text-input:hover {
-    border-color:#f16c6b;
+    border-color: #f16c6b;
 }
 
 .join-button {
@@ -381,62 +398,111 @@ footer > p {
         margin-bottom: 20px;
         line-height: 50px;
     }
-    
+
 
     #trenching-evaluation {
         width: 65%;
         margin: 0 auto;
     }
+
     #services {
         padding: 30px 0;
         margin: 0;
     }
-    #left-about, #right-about {
-        width:100%;
+
+    #left-about,
+    #right-about {
+        width: 100%;
         float: left;
         padding: 0;
     }
+
     #center-about {
         clear: both;
         width: 100%;
         float: left;
         padding: 0;
     }
+
     #survey-digital {
-        
+
         width: 65%;
         margin: 0 auto;
     }
-    #left-bottom-about, #right-bottom-about {
-        width:100%;
+
+    #left-bottom-about,
+    #right-bottom-about {
+        width: 100%;
         float: left;
         padding: 0;
     }
+
     #center-bottom-about {
         clear: both;
         width: 100%;
         padding: 0;
     }
+
     hr {
         display: none;
     }
+
     #left-links {
-        width:100%;
+        width: 100%;
         float: left;
         padding: 0;
     }
+
     #right-picture {
-        width:100%;
+        width: 100%;
         float: left;
         padding: 0;
     }
+
     #circle-container {
         width: 200px;
         height: 200px;
     }
+
     #circle-bottom-container {
         width: 200px;
         height: 200px;
     }
 }
 
+/* For larger to medium screens size from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #cover-text {
+        left: 0px;
+    }
+
+    #trenching-evaluation {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .left-about-heading .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2,
+    .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+
+    .left-about-heading p,
+    .right-about-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+}
