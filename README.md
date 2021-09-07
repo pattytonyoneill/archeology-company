@@ -60,7 +60,7 @@
 
   - _Desktop_
 
-    - ![image](testing/top-of-home-page.png)
+    - ![image](desktop_chrome.png)
 
   - _Tablet_
 
@@ -142,7 +142,19 @@
     - ![image](testing/contact.png)
 
 ## Further Testing
-  - The Website was tested on Google Chrome, Firefox, and Brave browsers.
+  - The Website was tested on: 
+    - _Google Chrome_
+
+      - ![image](testing/desktop_chrome.png)
+
+    - _Firefox_
+
+      - ![image](testing/firefox.png)
+
+    - _Brave browsers_
+
+      - ![image](testing/brave.png)
+
   - The website was viewed on a variety of devices such as Desktop, Laptop, Samsung Galaxy Tablet and Samsung Galaxy 7, Samsung Galaxy 8, Samsung A12.
   - A large amount of testing was done to ensure that all of the pages were linking correctly. 
   - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. I aso had my client test the website to see if it was what they wanted.
@@ -171,7 +183,7 @@ The live link can be found here - https://pattytonyoneill.github.io/archeology-c
 - _All content written by the developer._
 
 ### Media
-- _Images came from_- Hero-image came from stockvault.net. Archeology picture used on contact us page background was from freeimages.com. The rest of the images came from publicdomainpictures.net.
+- _Images came from_- Hero-image came from [stockvault.net](https://www.stockvault.net/photo/135432/poulnabrone-dolmen-hdr). Archeology picture used on contact us page background was from [freeimages.com](https://www.freeimages.com/photo/archaeology-1-1456973). The planning board came for adobe stock photos[planning-board](https://stock.adobe.com/search?k=archeology&asset_id=300414652).The rest of the images came from publicdomainpictures. [Test Trenching](https://www.publicdomainpictures.net/en/view-image.php?image=251822&picture=archeology), [digital-image](https://images.app.goo.gl/XMBQvqt6d8EwaWFj6). 
 
 ### Acknowlegements
 - _My Mentor for his help and feedback._
